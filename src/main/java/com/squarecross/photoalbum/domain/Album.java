@@ -1,3 +1,5 @@
+//Album 데이터 베이스 객체 정의
+
 package com.squarecross.photoalbum.domain;
 
 import javax.persistence.*;

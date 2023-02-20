@@ -1,8 +1,11 @@
+//Photo 데이터 베이스 객체 정의
+
 package com.squarecross.photoalbum.domain;
 
 import javax.persistence.*;
 import org.hibernate.annotations.CreationTimestamp;
 import java.util.Date;
+
 
 //테이블 정보 매핑 해주기
 //uniqueConstraints: 반복되면 안되는 제약조건
